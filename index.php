@@ -7,6 +7,9 @@ else{
 	$menu = A;
 }
 include('modules/connect.php');
+
+// test 
+
 include ('modules/header.php');
 include('modules/style.php');
 include ('modules/menu.php');
